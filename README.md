@@ -1,6 +1,18 @@
 # jaytwo.MimeHelper
 
-[![NuGet version (jaytwo.MimeHelper)](https://img.shields.io/nuget/v/jaytwo.MimeHelper.svg?style=flat-square)](https://www.nuget.org/packages/jaytwo.MimeHelper/)
+<p align="center">
+  <a href="https://jenkins.jaytwo.com/job/jaytwo.MimeHelper/job/master/" alt="Build Status (master)">
+    <img src="https://jenkins.jaytwo.com/buildStatus/icon?job=jaytwo.MimeHelper%2Fmaster&subject=build%20(master)" /></a>
+  <a href="https://jenkins.jaytwo.com/job/jaytwo.MimeHelper/job/develop/" alt="Build Status (develop)">
+    <img src="https://jenkins.jaytwo.com/buildStatus/icon?job=jaytwo.MimeHelper%2Fdevelop&subject=build%20(develop)" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.nuget.org/packages/jaytwo.MimeHelper/" alt="NuGet Package jaytwo.MimeHelper">
+    <img src="https://img.shields.io/nuget/v/jaytwo.MimeHelper.svg?logo=nuget&label=jaytwo.MimeHelper" /></a>
+  <a href="https://www.nuget.org/packages/jaytwo.MimeHelper/" alt="NuGet Package jaytwo.MimeHelper (beta)">
+    <img src="https://img.shields.io/nuget/vpre/jaytwo.MimeHelper.svg?logo=nuget&label=jaytwo.MimeHelper" /></a>
+</p>
 
 I got tired of media type magic strings.
 
